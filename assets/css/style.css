@@ -1,0 +1,34 @@
+body {
+	margin: 5px;
+    padding: 5px;
+    background-image: url("../images/doodle.png");
+}
+
+.buttons {
+	margin: 20px 0px 20px 0px;
+}
+
+.gifDiv {
+	margin-right: 10px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.topic {
+	margin-right: 5px;
+	margin-bottom: 5px;
+	background-color: #4aaaa5;
+	color: white;
+}
+
+#addTopic {
+	background-color: #4aaaa5;
+	color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#topicSearch {
+	width: 100%;
+	margin-top: 2px;
+}
